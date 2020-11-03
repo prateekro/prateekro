@@ -13,6 +13,8 @@ ALWAYS LEARNING!!!
 💬  Lets talk about technology and trends.
 
 📫  How to reach me: prateekro@gmail.com
+
+Keep a tap here. Some interesting tech with Readme is being engineered!! ;) 🤖
 <!--
 **prateekro/prateekro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
